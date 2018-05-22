@@ -77,3 +77,5 @@ void loop()
 ```
 
 ## Resources
+
+- [PowerSwitch Tail II and Arduino](http://techvalleyprojects.blogspot.com/2012/04/powerswitch-tail-ii-and-arduino.html)
